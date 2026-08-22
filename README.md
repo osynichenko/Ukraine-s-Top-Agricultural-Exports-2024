@@ -1,5 +1,16 @@
 # Ukraine's Top Agricultural Exports, 2024 — World Rankings
 
+
+---
+
+![R](https://img.shields.io/badge/Built%20with-R-276DC3) 
+![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)
+![Period](https://img.shields.io/badge/Period-2024-1D9E75?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=flat)
+
+---
+
+
 A short data story built from UN Comtrade Plus trade statistics: in 2024, Ukraine was the world's **#1 exporter of sunflower oil**, **#5 exporter of natural honey**, and **#6 exporter of walnuts** — verified independently from primary trade data, not taken on faith from secondary sources.
 
 ![Ukraine's Top Agricultural Exports, 2024 — World Rankings](dashboard_screenshot.png)
