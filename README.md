@@ -32,7 +32,7 @@ All three headline claims (#1 oil, #5 honey, #6 nuts) held up under independent 
 
 ## Verifying Russia's competing export claim
 
-UCAB's sunflower oil report also cited a competing figure for Russia's 2024 exports ($3.72B) without disclosing its underlying methodology. Since Russia does not report to UN Comtrade for this commodity, that number can't be checked directly against Comtrade — so an independent estimate was computed instead, using **mirror-trade data**: summing what Russia's trading *partners* themselves declared as **imports from Russia** (UN Comtrade, `Reporters=All`, `Flow=Imports`, `Partners=Russian Federation`) — this mirrors Russia's exports without relying on Russia's own (absent) statistics.
+UCAB's sunflower oil report also cited a competing figure for Russia's 2024 exports ($3.72B) without disclosing its underlying methodology. Since Russia does not report to UN Comtrade for this commodity, that number can't be checked directly against Comtrade — so an independent estimate was computed instead, using **mirror-trade data**: summing what Russia's trading *partners* themselves declared as imports from Russia (UN Comtrade, `Reporters=All`, `Flow=Imports`, `Partners=Russian Federation`) — this mirrors Russia's exports without relying on Russia's own (absent) statistics.
 
 | | Export value | Ukraine's world share | Ukraine's rank |
 |---|---|---|---|
